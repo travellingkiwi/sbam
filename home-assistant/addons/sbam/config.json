@@ -1,11 +1,11 @@
 {
-  "name": "sbam",
-  "version": "1.4.0",
-  "slug": "sbam",
+  "name": "sbam-hamish-test",
+  "version": "1.4.0.01",
+  "slug": "sbam-hamish-test",
   "init": "false",
-  "description": "Smart Battery Advanced Manager",
+  "description": "Smart Battery Advanced Manager - Hamish Test",
   "arch": ["amd64", "i386", "armv7", "aarch64"],
-  "url": "https://github.com/atbore-phx/sbam",
+  "url": "https://github.com/travellingkiwi/sbam",
   "image": "ghcr.io/atbore-phx/ha-{arch}-sbam",
   "options": {
     "url": "https://api.solcast.com.au/rooftop_sites/<YOUR-SITE>/forecasts?format=json",
