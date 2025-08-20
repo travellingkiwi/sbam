@@ -6,7 +6,7 @@
   "description": "Smart Battery Advanced Manager - Hamish Test",
   "arch": ["amd64", "i386", "armv7", "aarch64"],
   "url": "https://github.com/travellingkiwi/sbam",
-  "image": "ghcr.io/atbore-phx/ha-{arch}-sbam",
+  "image": "ghcr.io/travellingkiwi/ha-{arch}-sbam",
   "options": {
     "url": "https://api.solcast.com.au/rooftop_sites/<YOUR-SITE>/forecasts?format=json",
     "apikey": "",
