@@ -1,7 +1,7 @@
 {
-  "name": "hbam",
+  "name": "sbam",
   "version": "1.5.0",
-  "slug": "hbam",
+  "slug": "sbam",
   "init": "false",
   "description": "Smart Battery Advanced Manager - Hamish Test",
   "arch": ["amd64", "i386", "armv7", "aarch64"],
