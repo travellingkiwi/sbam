@@ -25,7 +25,7 @@
     "reset": false,
     "debug": false,
     "cache_forecast": false,
-    "cache_time": 7200,
+    "cache_time": "7200",
     "cache_file": "forecast_cache.json"
   },
   "schema": {
