@@ -22,7 +22,7 @@ jobs:
         uses: codecov/codecov-action@v4
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: atbore-phx/sbam
+          slug: travellingkiwi/sbam
 
       - name: Build
         run: make build
